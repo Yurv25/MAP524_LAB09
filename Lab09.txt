@@ -1,0 +1,7 @@
+1. My name is Yuri Alejandro Valverde Pudov and my seneca ID is 040626129.
+2. Android Service: component of an application that performs operations in the background such as play music, file input and output and network transactions.
+Broadcast Receiver: allows to register system or application events. 
+Broadcast Intent : are objects that area broadcaste via sendBroadcast(), sendStickyBroadcast() or sendOrderedBroadcast() methods.
+Intent Service: a class that handles asynchronous requests.
+Intent Filter: matches against actions, categories, and data in an intent. Is created in the Android manifest.
+ 
